@@ -3,17 +3,6 @@
 
 Welcome to the LeetCode Solutions in Python repository! This repository aims to provide solutions to LeetCode problems using Python. It is open to contributions from the community, and we encourage you to get involved.
 
-## How to Contribute
-
-Contributing to this repository is a great way to share your knowledge and help others in their coding journey. Here's how you can contribute:
-
-1. **Add new solutions**: If you have solved a LeetCode problem using Python and your solution is not already present in the repository, you can add it. Make sure to include a detailed explanation and the corresponding LeetCode problem description.
-
-2. **Improve existing solutions**: If you find an existing solution that can be optimized or have alternative approaches, feel free to improve it. Optimize the code, provide alternative solutions, or add additional insights to make the solutions more efficient and understandable.
-
-3. **Update explanations**: If you think the explanations provided for the solutions can be improved or clarified, you can update them to provide a better understanding for others.
-
-4. **Fix issues or bugs**: If you come across any issues or bugs in the code, please feel free to fix them. Ensure that you thoroughly test the code after making the necessary changes.
 
 ## How to Contribute: Step-by-Step
 
