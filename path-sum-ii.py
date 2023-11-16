@@ -5,6 +5,8 @@
 #         self.left = left
 #         self.right = right
 
+
+
 class Solution(object):
     def pathSum(self, root, targetSum):
         """
