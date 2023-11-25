@@ -1,7 +1,8 @@
 
 # LeetCode Solutions in Python
 
-Welcome to the LeetCode Solutions in Python repository! This repository aims to provide solutions to LeetCode problems using Python. It is open to contributions from the community, and we encourage you to get involved.
+Welcome to the LeetCode Solutions in Python repository! This repository aims to provide solutions to LeetCode problems using Python. 
+It is open to contributions from the community, and we encourage you to get involved.
 
 
 ## How to Contribute: Step-by-Step
@@ -42,7 +43,7 @@ To contribute to this repository, follow these steps:
 
 9. Provide a clear title and description for your pull request, explaining the changes you have made.
 
-10. Submit the pull request, and it will be reviewed by the repository maintainers.
+10. Submit the pull request, and it will be reviewed immediately by the repository maintainers.
 
 ## Code Style Guidelines
 
