@@ -10,6 +10,7 @@ URL: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 #         self.val = x
 #         self.left = None
 #         self.right = None
+
 class Solution(object):
     def sortedArrayToBST(self, nums):
         """
@@ -24,6 +25,7 @@ class Solution(object):
             start = 0
             end = len(nums) - 1
             return self.to_bst(nums, start, end)
+   
     def to_bst(self, arr, start, end):
         if len(arr) == 0 or start > end:
         return None
