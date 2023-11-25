@@ -1,3 +1,5 @@
+
+
 class Solution(object):
     def fizzBuzz(self, n):
         """
