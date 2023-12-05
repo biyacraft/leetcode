@@ -6,6 +6,7 @@ https://leetcode.com/problems/3sum/
 """
 
 class Solution(object):
+     
      def threeSum(self, nums):
         res = []
         nums.sort()
@@ -29,5 +30,6 @@ class Solution(object):
                     j += 1
                 else:
                     k -= 1
+                     
         return res
         
