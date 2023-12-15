@@ -4,6 +4,7 @@ class Solution:
         for char in s:
             if char.isalnum():
                 string += char.lower()
+
         
         start = 0
         end = len(string) - 1
