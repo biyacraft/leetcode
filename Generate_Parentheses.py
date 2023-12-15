@@ -4,6 +4,7 @@
 #         :type n: int
 #         :rtype: List[str]
 #         """
+
 class Solution(object):
     def generateParenthesis(self, n):
         if n == 1:
