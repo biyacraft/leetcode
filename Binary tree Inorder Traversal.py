@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+
 class Solution(object):
     def inorderTraversal(self, root):
         
@@ -24,4 +26,5 @@ class Solution(object):
             result.append(current.val)
             current = current.right
 
+        
         return result
