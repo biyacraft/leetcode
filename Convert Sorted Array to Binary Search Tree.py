@@ -2,8 +2,6 @@
 height balanced BST.
 URL: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 """
-
-
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
